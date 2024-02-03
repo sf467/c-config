@@ -1,0 +1,15 @@
+payload:
+#bing-微软
+- '+.bing.net'
+- '+.bing.com'
+- '+.msn.com'
+- '+.msn.cn'
+- '+.MicrosoftEdgeUpdate.exe'
+#地区敏感
+- '+.openai.com'
+- '+.18comic.vip'
+- '+.jmapiproxy1.monster'
+- '+.claude.ai'
+- '+.ehgt.org'
+- '+.exhentai.org'
+- '+.e-hentai.org'
