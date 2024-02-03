@@ -1,5 +1,0 @@
-payload:
-# 下载进程
-  - PROCESS-NAME,curl
-  - PROCESS-NAME,axel
-  - PROCESS-NAME,IDMan.exe
