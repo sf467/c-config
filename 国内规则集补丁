@@ -1,10 +1,10 @@
 payload:
-- DOMAIN-KEYWORD,yydstxt
-- DOMAIN-KEYWORD,01bz
-- DOMAIN-SUFFIX,very.readilets.com
-- DOMAIN-SUFFIX,mimicry.cool
-- DOMAIN-SUFFIX,wenku8.cc
-- DOMAIN-SUFFIX,msftconnecttest.com
-- DOMAIN-SUFFIX,msftncsi.com
-- DOMAIN-SUFFIX,windows.msn.cn
-- DOMAIN-KEYWORD,autodesk
+- '**yydstxt**'
+- '+.01bz.*'
+- '+.very.readilets.com'
+- '+.mimicry.cool'
+- '+.wenku8.cc'
+- '+.msftconnecttest.com'
+- '+.msftncsi.com'
+- '+.windows.msn.cn'
+- '**autodesk**
