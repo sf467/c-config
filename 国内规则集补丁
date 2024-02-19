@@ -8,3 +8,6 @@ payload:
 - '+.msftncsi.com'
 - '+.windows.msn.cn'
 - '**autodesk**
+- '+.bfzycdn.com'
+- '+.vofix.me'
+- '+.vofix.*'
